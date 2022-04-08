@@ -20,7 +20,7 @@ main>.container {
 }
 
 .techicons {
-    font-size: 5rem;
+    font-size: 4rem;
 }
 
 .sticky-footer {
@@ -50,4 +50,11 @@ main>.container {
     color: var(--cf-secondary-color);
     font-size: 1.5rem;
     font-weight: bold;
+}
+
+.messageStyle{
+    font-size: 1.5rem;
+    font-weight: bold;
+
+
 }
